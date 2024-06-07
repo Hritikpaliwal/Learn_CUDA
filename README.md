@@ -14,6 +14,7 @@ Resources : [CUDA Tutorial Series](https://www.youtube.com/playlist?list=PLBQlPZ
 - **Introduction to GPU Architecture**
   - **Can we write code and run it on GPU?**
     - Answer: Yes, but it requires CUDA for NVIDIA GPUs or OpenCL for others.
+
   - **Comparison of CPUs and GPUs**:
     | Feature               | CPU                        | GPU                                    |
     |-----------------------|----------------------------|----------------------------------------|
@@ -26,6 +27,8 @@ Resources : [CUDA Tutorial Series](https://www.youtube.com/playlist?list=PLBQlPZ
     | Floating Point        | Supports single and double | Optimized for single precision         |
     | Power Consumption     | Higher                     | Efficient for parallel tasks           |
     | Special Features      | General computing optimizations | Graphics rendering specializations |
+
+  ! (https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.researchgate.net%2Ffigure%2FCPU-vs-GPU-Architecture_fig1_270222593&psig=AOvVaw2hDkvLRIhYu4gXZ8KfUXMj&ust=1717865695144000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIDTkcf6yYYDFQAAAAAdAAAAABAQ))
 
 - **CPU ALU vs GPU Core**
   - **CPU ALU**: More powerful, higher frequencies (3-4 GHz).
