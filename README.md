@@ -28,7 +28,8 @@ Resources : [CUDA Tutorial Series](https://www.youtube.com/playlist?list=PLBQlPZ
     | Power Consumption     | Higher                     | Efficient for parallel tasks           |
     | Special Features      | General computing optimizations | Graphics rendering specializations |
 
-  ! (https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.researchgate.net%2Ffigure%2FCPU-vs-GPU-Architecture_fig1_270222593&psig=AOvVaw2hDkvLRIhYu4gXZ8KfUXMj&ust=1717865695144000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIDTkcf6yYYDFQAAAAAdAAAAABAQ))
+![CUDA Logo]([https://example.com/cuda-logo.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmicrocontrollerslab.com%2Fdifference-between-cpu-and-gpu%2F&psig=AOvVaw2l-gGLhMHY74E0iyzdL9SO&ust=1717866143651000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJD6jZ38yYYDFQAAAAAdAAAAABAE))
+
 
 - **CPU ALU vs GPU Core**
   - **CPU ALU**: More powerful, higher frequencies (3-4 GHz).
